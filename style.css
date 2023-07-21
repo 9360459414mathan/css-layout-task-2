@@ -1,0 +1,424 @@
+/*================ common style start ===================*/
+	*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	}
+	.container{
+	width:100%;
+	margin:0 auto;
+	padding:15px 0;
+	}
+	.col-lg-1{
+	width:8.33% !important;
+	padding:15px 0;
+	}
+	.col-lg-2{
+	width:16.66% !important;
+	padding:15px 0;
+	}
+	.col-lg-3{
+	width:25% !important;
+	padding:15px 0;
+	}
+	.col-lg-4{
+	width:33.33% !important;
+	padding:15px 0;
+	}
+	.col-lg-5{
+	width:41.66% !important;
+	padding:15px 0;
+	}
+	.col-lg-6{
+	width:50% !important;
+	padding:15px 0;
+	}
+	.col-lg-7{
+	width:58.33% !important;
+	padding:15px 0;
+	}
+	.col-lg-8{
+	width:66.66% !important;
+	padding:15px 0;
+	}
+	.col-lg-9{
+	width:75% !important;
+	padding:15px 0;
+	}
+	.col-lg-10{
+	width:83.33% !important;
+	padding:15px 0;
+	}
+	.col-lg-11{
+	width:91.66% !important;
+	padding:15px 0;
+	}
+	.col-lg-12{
+	width:100% !important;
+	padding:15px 0;
+	}
+ /*================ common style end ===================*/
+ /*================ Header style start =================*/
+ .header{
+	 display:flex;
+	 flex-wrap:wrap;
+	justify-content:space-evenly;
+}
+.container{
+	width:90%;
+}
+ .flexstart{
+	 background-color:lightgreen;
+	 height:50px;
+ }
+ .nav{
+	 background-color:#000;
+	 height:50px;
+ }
+ .getstart{
+	 background-color:lightgreen;
+	 height:50px;
+}
+/*================ Header style end =================*/
+ /*================ Home style start =================*/ 
+ .Home{
+	 background-color:lightgray;
+	 height:600px;
+ }
+ .Home{
+	 display:flex;
+	 flex-wrap;wrap;
+ }
+ .learing{
+	 background-color:lightgreen;
+	 height:450px;
+		 
+	 
+ }
+ /*================ Home style end ===================*/
+ /*================ WHO WE ARE style start =================*/
+ .WHO-WE-ARE{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:center;
+	align-items:center;
+ }
+ .WHO-WE-ARE-content{
+	 background-color:lightgreen;
+	 height:450px;
+ }
+ .WHO-WE-ARE-image{
+	 background-color:lightgreen;
+	 height:500px;
+ }
+ /*================ WHO WE ARE style end ===================*/
+ /*================ WHO WE ARE style start =================*/
+ .OUR-VALUES{
+	 display:flex;
+	 flex-wrap:wrap;
+	 justify-content:space-evenly;
+ }
+ .commen-content{
+	 background-color:gray;
+	 height:100px;
+ }
+ .OUR-VALUES-content{
+	 background-color:lightgreen;
+	 height:350px;
+ }
+ /*================ WHO WE ARE style end ===================*/
+ /*================ WHO WE ARE style start =================*/
+
+.points{
+	  display:flex;
+	  flex-wrap:wrap;
+	  justify-content:space-evenly;
+}
+.points-content{
+	  background-color:lightgreen;
+	  height:150px;
+}
+  /*================ WHO WE ARE style end ===================*/
+ /*================ FEATURES style start =================*/
+.FEATURES{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-around;
+}
+.FEATURES-content{
+	background-color:lightgreen;
+	height:450px;
+}
+.content-child{
+	background-color:lightblue;
+	height:70px;
+	justify-content:space-evenly;
+}
+.FEATURES-image{
+	background-color:lightgreen;
+	height:450px;
+}
+  /*================ FEATURES style end ===================*/
+ /*================ Neque style start ===================*/
+ .Neque{
+	 display:flex;
+	 flex-wrap:wrap;
+	 justify-content:space-around;
+ }
+ .Neque-content{
+	 background-color:lightgray;
+	 height:500px;
+ }
+.Neque-image{
+	background-color:lightgray;
+	height:500px;
+}
+ /*================ Neque style end ===================*/
+ /*================ Ratione-part-style start ===================*/
+.Ratione-part{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+}
+.Ratione-title{
+	background-color:gray;
+	height:70px;
+	margin:0 50px;;
+}
+.Ratione-image{
+	background-color:lightgray;
+	height:500px;
+}
+.Ratione-content{
+	background-color:lightgreen;
+	height:500px;
+}
+.Ratione-content1{
+	background-color:lightgray;
+	height:100px;
+}
+/*================ Ratione-part-style end ===================*/
+ /*================ SERVICES style start ===================*/
+ .SERVICES{
+	 display:flex;
+	 flex-wrap:wrap;
+	 justify-content:space-evenly;
+ }
+ .SERVICES-content{
+	 background-color:lightgreen;
+	 height:400px;
+
+ }
+/*================ SERVICES style end ===================*/
+ /*================ PRICING style start ===================*/
+.PRICING{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-evenly;	
+}
+.PRICING-content{
+	background-color:lightgreen;
+	height:350px;
+}
+
+/*================ PRICING style end ===================*/
+ /*================ Frequently style start ===================*/
+.Frequently{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+}
+.Frequently-content{
+	background-color:lightgreen;
+	height:100px;
+}
+/*================ Frequently style end ===================*/
+ /*================ PORTFOLIO style start ===================*/
+.PORTFOLIO{
+	 display:flex;
+	 flex-wrap:wrap;
+	 justify-content:space-evenly;
+ }
+ .PORTFOLIO-content{
+	 background-color:lightgreen;
+	 height:250px;
+ }
+/*================ PORTFOLIO style end ===================*/
+/*================ TESTIMONIALS style start ===================*/
+.TESTIMONIALS{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+}
+.TESTIMONIALS-content{
+	background-color:lightgreen;
+	height:400px;
+}
+/*================ TESTIMONIALS style end ===================*/
+/*================ TESTIMONIALS style start ===================*/
+.TESTIMONIALS{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+}
+.TESTIMONIALS-content{
+	background-color:lightgreen;
+	height:400px;
+}
+
+/*================ PORTFOLIO style end ===================*/
+/*================ working-team style start ===================*/
+.working-team{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+}
+.working-team-content{
+	background-color:lightgreen;
+	height:450px;
+	border-radius:10px;
+	margin:0 15px;
+}
+
+/*================ working-team style end ===================*/
+/*================ working-team style start ===================*/
+.OUR-CLIENTS{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+.OUR-CLIENTS-content{
+	background-color:lightgreen;
+	height:150px;
+	margin:0 15px;
+}
+/*================ working-team style end ===================*/
+/*================ BLOG style start ===================*/
+.BLOG{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-around;
+}
+.BLOG-content{
+	background-color:lightgreen;
+	height:300px;
+	border-radius:10px;
+	margin:0 15px;
+}
+/*================ BLOG style end ===================*/
+/*================ CONTACT style start ===================*/
+.CONTACT{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+}
+.CONTACT-content{
+	background-color:lightgray;
+	height:500px;
+}
+.CONTACT-child-content1{
+	background-color:lightgreen;
+	height:200px;
+}
+.CONTACT-child-content2{
+	background-color:lightgreen;
+	height:50px;
+}
+.CONTACT-child-content3{
+	background-color:lightgreen;
+	height:50px;
+}
+.CONTACT-child-content4{
+	background-color:lightgreen;
+	height:50px;
+}
+.CONTACT-child-content5{
+	background-color:lightgreen;
+	height:200px;
+}
+
+.CONTACT-child-content6{
+	background-color:lightgreen;
+	height:50px;
+}
+/*================ CONTACT style end ===================*/
+/*================ Our-Newsletter style start ===================*/
+.Our-Newsletter-sec{
+	background-color:lightgray;
+}
+.Our-Newsletter{
+	display:flex;
+	flex-wrap:warp;
+	align-items:center;
+}
+.Our-Newsletter-content{
+	background-color:lightgreen;
+	height:250px;
+}
+
+/*================ Our-Newsletter style end ===================*/
+/*================ end style start ===================*/
+.end-sec{
+	background-color:lightgray;
+}
+.end{
+	display:flex;
+	flex-wrap:warp;
+	justify-content:space-evenly;
+}
+.end-content{	
+	background-color:lightblue;
+	height:350px;
+}
+.end-child-content{
+	background-color:lightgreen;
+	height:250px;
+}
+
+/*================end style end ===================*/
+/*================ finish style start ===================*/
+.finish-sec{
+	background-color:lightgray;
+}
+.finish{
+	display:flex;
+	flex-wrap:warp;
+	justify-content:center;
+}
+.finish-content{	
+	background-color:lightgreen;
+	height:100px;
+}
+
+/*================end style end ===================*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
